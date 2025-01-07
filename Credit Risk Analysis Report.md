@@ -1,9 +1,10 @@
 # Credit Risk Analysis Report
 ## Overview of the Analysis
--The purpose of this analyais was to determine the credit risk for 'healthy' loans and for 'high risk loans.'
--The models predict the credit worthiness of individuals based on their credit risk.
--The overall accurracy and precision were attempted to be predicted from the trained models.
--The data was read into a dataframe from the given csv file. Then the data was split into train and test pools. A logistic regression model was trained and then the data was tested from the resulting model. Predictions were then able to be made on the resulting data.
+<ul class="circle-bullets">
+<li>The purpose of this analyais was to determine the credit risk for 'healthy' loans and for 'high risk loans.'<li>
+<li>The models predict the credit worthiness of individuals based on their credit risk.<li>
+<li>The overall accurracy and precision were attempted to be predicted from the trained models.<li>
+<li>The data was read into a dataframe from the given csv file. Then the data was split into train and test pools. A logistic regression model was trained and then the data was tested from the resulting model. Predictions were then able to be made on the resulting data.<li>
 
 ## Results
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
